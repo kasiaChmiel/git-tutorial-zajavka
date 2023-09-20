@@ -5,10 +5,6 @@ public class Person {
         //comment
 
         System.out.println("Hello1");
-        System.out.println("Hello1");
-        System.out.println("Hello1");
-        System.out.println("Hello1");
-
 
         System.out.println("Hello5");
         System.out.println("Hello5");
